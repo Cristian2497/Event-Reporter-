@@ -1,7 +1,7 @@
 # Event-Reporter-
 event reporter web application
 
---EXTRACT .idea , MediaDocs , venv folders from the zip file
+I put all project files includes __init__ files and other systems folders into single zip file for best compatibility. You can open the extracted folder as a project
 
 I use python v3.8 but i think it works very well on older versions and last version of PyCharm Community IDE for nice gui/helpful development
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
