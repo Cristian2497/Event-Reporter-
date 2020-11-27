@@ -22,3 +22,4 @@ https://docs.mongodb.com/manual/indexes/
 https://pypi.org/
 
 Btw you can access MongoDB cluster from any IP adress
+Access web appliction: localhost:8000/myWebApp
